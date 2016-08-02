@@ -1,4 +1,3 @@
-layout_spectrum: 0.06361804087646306
 typography_spectrum: 0.2274169905576855
 color:
   brandStrength: 0.07075812784023583
@@ -11,5 +10,7 @@ color:
     - '#AC9E3D'
     - '#000000'
     - '#694F40'
+layout_spectrum: 0.06361804087646306
 name: William Matthews
 title: I am Will
+description: Will I am
