@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[William Matthews]]></title>
-        <description><![CDATA[William Matthews]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[I am Will]]></title>
+        <description><![CDATA[I am Will]]></description>
+        <link>https://thegrid.ai/william-matthews/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Aug 2016 15:34:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 02 Aug 2016 15:57:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/william-matthews/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[10 Film & TV Locations You Must See | Visit Wales]]></title>
+            <description><![CDATA[<article><h1>10 Film & TV Locations You Must See | Visit Wales</h1><p>Discover the many corners of Wales that on-screen lovers, monsters, aliens, vampires, elves and warring knights have made famous. The first two series of BBC3's Being Human are set in Bristol, but in the third series, the four protagonists move to a former B&B called Honolulu Heights on Coast View Road in Barry Island.</p><img src="http://www.visitwales.com/~/media/e146cf13d00841e388e80aa4b4dd1f38.ashx?h=361&la=en&w=642"></article>]]></description>
+            <link>http://www.visitwales.com/holidays-breaks/days-out/tv-film-locations-uk</link>
+            <guid isPermaLink="false">c71d3242-e88a-4ce9-81f6-a4f4503dbb3b</guid>
+            <pubDate>Tue, 02 Aug 2016 15:55:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[50 Apps and Websites to Optimize Your Vacation]]></title>
             <description><![CDATA[<article><h1>50 Apps and Websites to Optimize Your Vacation</h1><p>Everyone has an airport horror story. But you can make the most of a bad situation with apps like Flight+, which will keep you abreast of the latest delays and gate changes. And if you need a shower, unlimited Wi-Fi, or a work space during your extended layover, LoungeBuddy will alert you as to which free and pay-as-you-go lounges are available.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/60ba015247b8a3815bc323328e1deb03fce33dca.jpg"></article>]]></description>
